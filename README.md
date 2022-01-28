@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingGarden274
-- 👀 I’m interested in web development projects
+- 👀 I’m interested in web projects development.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Java and SQL server.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
